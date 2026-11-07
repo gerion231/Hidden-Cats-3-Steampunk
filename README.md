@@ -191,3 +191,6 @@ This repository serves as the official landing page for HIDDEN CATS 3: Steampunk
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of HIDDEN CATS 3: Steampunk today!**
+
+---
+**Last updated:** 2026-11-07 23:23:20 UTC
